@@ -23,4 +23,8 @@ LOW-FIDELITY WIREFRAMES
 Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design
 
 HIGH-FIDELITY WIREFRAMES
-more detailed and refined versions , often closer to the final design, including more specific layout and design elements 
+more detailed and refined versions , often closer to the final design, including more specific layout and design elements
+
+
+https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=117-324&t=dqmycw6w8HUY2i0Q-1
+
