@@ -15,7 +15,7 @@ Shows how users will move through the or application
 5. CONTENT PLACEMENT
 Indicates where texts, images, and other content will be positioned 
 7. FUNCTIONALITY
-Outlines key functionalites and interactions
+Outlines key functionalites and interactions              
 
 
 
