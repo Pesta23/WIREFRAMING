@@ -17,5 +17,11 @@ Indicates where texts, images, and other content will be positioned
 7. FUNCTIONALITY
 Outlines key functionalites and interactions
 
+TYPES OF WIREFRAMES
+
+LOW-FIDELITY WIREFRAMES-Simple sketches or basic digital layouts focusing on overall structure and functionality detailed design.
+
+High- fedility wireframes- More detailed and refined versions, often closer to the final design, including more specific layout and design elements
+
 
 
